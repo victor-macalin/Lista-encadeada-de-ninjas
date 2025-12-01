@@ -1,4 +1,4 @@
-Desenvolver um sistema em
+Um sistema em
 Java para gerenciar uma lista de ninjas usando a
 estrutura de dados LinkedList. Cada ninja terá nome,
 idade e vila. Inicialmente, sete ninjas serão
